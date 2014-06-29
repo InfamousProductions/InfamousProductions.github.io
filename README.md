@@ -1,2 +1,2 @@
 ####Click me
-* [Link to page](InfamousProductions.github.io)
+* [Link to page](http://InfamousProductions.github.io)
